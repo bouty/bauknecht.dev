@@ -1,0 +1,17 @@
+{
+  "name": "bauknecht.dev",
+  "version": "1.0.0",
+  "description": "Source for my personal dev site",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "dev": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "keywords": [],
+  "author": "Mike Bauknecht",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0-beta.1"
+  }
+}
